@@ -1,5 +1,9 @@
+.contact .contact-form,
+.contact-index ul{
+  max-width: 500px;
+}
 .contact h2{
-  color: tomato;
+  color: #fa5252;
 }
 .contact .contact-form label,
 .contact-show label{
@@ -8,4 +12,8 @@
 }
 .contact .contact-menu form{
   display: inline-block;
+}
+
+.newform, .indexform, .showform{
+  margin-left: 25%;
 }
